@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "699057730680",
+    "firebase_url": "https://q8hub-4040a.firebaseio.com",
+    "project_id": "q8hub-4040a",
+    "storage_bucket": "q8hub-4040a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699057730680:android:a18502114ec5b5a2",
+        "android_client_info": {
+          "package_name": "com.example.ae.yourhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699057730680-v7k8tpsk1kitmq7obclpeng8fn2pt53u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ae.yourhub",
+            "certificate_hash": "86d4ea9f014920aad7794b654c2ce0d2479a36a6"
+          }
+        },
+        {
+          "client_id": "699057730680-55iq44tgbe93clj23cujskkbdfc2ql9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE3pIqY0XDMWpbntCC6__tCBbA6CdLduI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699057730680-vjtru2h4bgknviqcso4ps40j55cdqd4p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nilevars.jokes"
+              }
+            },
+            {
+              "client_id": "699057730680-55iq44tgbe93clj23cujskkbdfc2ql9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
